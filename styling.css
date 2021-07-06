@@ -18,13 +18,12 @@ header {
 }
 .header-wid ul li {
     display: inline;
-    padding-right: 5%;
+    padding-right: 10%;
 }
 section {
     display: flex;
     padding: 4%;
     margin-bottom: 100px;
-
 
 }
 .first {
@@ -57,9 +56,7 @@ section {
 .s2 {
     background-image: url(images/shapes/7.png);
     width: 100%;
-  
-    
-}
+  }
 .s2 background img {
     width: 100%;
 }
