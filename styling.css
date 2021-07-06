@@ -1,11 +1,25 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    margin-right: 0px;
+  margin: 0px;
 }
 h1 {
     font-size: 40px;
 }
+header {
+    width: 100%;
+    background-color: orange;
+    display: flex;
+    color: white;
+    padding-left: 2%;
+}
 
+.header-wid{
+    width: 50%;
+}
+.header-wid ul li {
+    display: inline;
+    padding-right: 5%;
+}
 section {
     display: flex;
     padding: 4%;
@@ -42,7 +56,11 @@ section {
 }
 .s2 {
     background-image: url(images/shapes/7.png);
+  
     
+}
+.s2 background img {
+    width: 100%;
 }
 .box-sec {
     display:flex;
@@ -55,18 +73,6 @@ section {
     box-shadow: 5px 5px 10px grey;
     border-radius: 15px;
 }
-.last {
- padding-left: 15%;
- padding-bottom: 5%;
-box-shadow: 5px 5px 10px grey;
-border-radius: 15px;
-margin: 5%;
-}
-.last-p {
-    width: 33.33%;
-
-    
-}
 footer {
     background-color: black;
     color:white;
@@ -75,4 +81,3 @@ footer {
     padding-bottom: 5%;
     margin: 0px;
 }
-
