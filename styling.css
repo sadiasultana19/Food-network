@@ -3,7 +3,7 @@ body {
     margin-right: 0px;
 }
 h1 {
-    font-size: 50px;
+    font-size: 40px;
 }
 
 section {
@@ -15,9 +15,12 @@ section {
 }
 .first {
     width: 50%;
+
 }
 .first img {
-    width: 60%;
+    width: 70%;
+    padding-left: 10%;
+    
 }
 .link {
     text-decoration: none;
