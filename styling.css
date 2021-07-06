@@ -44,3 +44,35 @@ section {
     background-image: url(images/shapes/7.png);
     
 }
+.box-sec {
+    display:flex;
+}
+.box-part {
+    width: 33.33%;
+    margin: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 15px;
+}
+.last {
+ padding-left: 15%;
+ padding-bottom: 5%;
+box-shadow: 5px 5px 10px grey;
+border-radius: 15px;
+margin: 5%;
+}
+.last-p {
+    width: 33.33%;
+
+    
+}
+footer {
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    margin: 0px;
+}
+
