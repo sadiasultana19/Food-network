@@ -1,0 +1,27 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    font-size: 50px;
+}
+
+section {
+    display: flex;
+    padding: 4%;
+
+}
+.first {
+    width: 50%;
+}
+.first img {
+    width: 60%;
+}
+.link {
+    text-decoration: none;
+    background-image: linear-gradient(darkorange,tomato);
+    border-radius: 20px;
+    padding: 10px 30px;
+    color: white;
+    
+   
+}
